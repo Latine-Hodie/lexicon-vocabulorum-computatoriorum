@@ -1,2 +1,2 @@
-# lexicon-vocabulorum-computatralium
-lexicon vocabulorum computatralium 
+# lexicon vocábulórum computátrálium
+Liber, quí multa útentia vocábula computátrália habet.
