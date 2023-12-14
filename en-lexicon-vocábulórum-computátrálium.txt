@@ -1,0 +1,20 @@
+__Communication__
+
+a mail:    f. "epistola, -æ"
+an e-mail: f. "e-epistola, -æ"; f. "épistola, -æ"
+a message: m. "núntius, -í"
+a spam:    f. "sagínátió, -ónis"
+to spam:   ind. præs. "sagínó", inf. præs. "sagínáre", ind. perf. "sagínáví", supin. "sagínátum"
+to send:   ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum"
+
+__Software__
+
+a firewall:          m. "ignis + múrus, -í"
+an operating system: n. "systéma, -atis" + "operáns, -antis"
+an internet:         n. "interréte, -étis"
+
+__Gaming__
+
+to play a game: ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum"
+a game:         m. "lúsus, -ús"; m. "lúdus, -í"(ambiguous with school)
+a game session: f. "lúsió, -ónis"; f. "sessió, ónis" + "lúsa, -æ"
