@@ -1,5 +1,6 @@
 __Hardware__
-a computer:          n. "computátrum, -í"; n. "computátórium, -í" (ambiguous with a counter)
+
+a computer:          n. "computátrum, -í"; n. "computátórium, -í" (ambiguous with a counter); n. "órdinátrum, -í"; n. "órdinátórium, -í"
 a desktop computer:  n. "computátrum, -í" + "ménsárium, -í"
 a laptop computer:   n. "computátrum, -í" + "portábile, -is"
 a hardware:          f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
@@ -10,17 +11,18 @@ a key:               f. "clávis, -is"
 
 __System__
 
-to shutdowm:         ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum"
+to close(a window):  ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum"
+to shutdowm:         ind. præs. "extinguó", inf. præs. "extinguere", ind. perf. "extínxí", supin. "extínctum"
 a shutdown:          f. "clausúra, -æ"
 a terminal:          n. "terminále, -is"
 a firewall:          m. "ignis + múrus, -í"
 a system:            n. "systéma, -atis"
-an operating system: n. "systéma, -atis" + "operáns, -antis"
+an operating system: n. "systéma, -atis" + "operátiónále, -is"; n. "systéma, -atis" + "operáns, -antis"
 a network:           n. "réte, -is"
 an internet:         n. "interréte, -is"
 a local network(LAN):n. "locále, -is" + "réte, -is" (LR)
-a file:              f. "plica, -æ"
-a folder:            m. "index, -icis"
+a file:              f. "plica, -æ"; m. "scápus, -í"
+a folder:            f. "théca, -æ"; m. "index, -icis"
 a font:              m. "typus, -í"
 a hypertext:         m. "hypertextus, -ús"
 a desktop:           f. "ménsa, -æ"
@@ -46,7 +48,7 @@ to send:             ind. præs. "mittó", inf. præs. "mittere", ind. perf. "m�
 __Gaming__
 
 to play a game:      ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum"
-a game:              m. "lúsus, -ús"; m. "lúdus, -í"(ambiguous with school)
+a game:              m. "lúsus, -ús"; m. "lúdus, -í"(ambiguous with a school)
 a game session:      f. "lúsió, -ónis"; f. "sessió, ónis" + "lúsa, -æ"
 a player:            m. "lúsor, -óris"
 coop/multiplayer:    f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúsus, -ús + multórum lúsórum"
