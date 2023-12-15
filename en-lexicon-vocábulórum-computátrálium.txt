@@ -1,7 +1,7 @@
 __Hardware__
 a computer:          n. "computátrum, -í"; n. "computátórium, -í" (ambiguous with a counter)
 a desktop computer:  n. "computátrum, -í" + "ménsárium, -í"
-a laptop computer:   n. "computárum, -í" + "portábile, -is"
+a laptop computer:   n. "computátrum, -í" + "portábile, -is"
 a hardware:          f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 a monitor:           m. "monitor, -óris"; n. "monitorium, -í"
 a mouse:             m. "mús, múris"; m. "músculus, -í"
