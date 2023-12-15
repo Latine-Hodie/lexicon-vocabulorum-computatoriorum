@@ -43,3 +43,6 @@ __Gaming__
 to play a game:      ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum"
 a game:              m. "lúsus, -ús"; m. "lúdus, -í"(ambiguous with school)
 a game session:      f. "lúsió, -ónis"; f. "sessió, ónis" + "lúsa, -æ"
+a player:            m. "lúsor, -óris"
+coop/multiplayer:    f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúsus, -ús + multórum lúsórum"
+singleplayer:        m. "lúsus, -ús + únius lúsóris"
