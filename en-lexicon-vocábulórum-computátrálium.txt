@@ -1,5 +1,7 @@
 __Hardware__
-
+a computer:          n. "computátrum, -í"; n. "computátórium, -í" (ambiguous with a counter)
+a desktop computer:  n. "computátrum, -í" + "ménsárium, -í"
+a laptop computer:   n. "computárum, -í" + "portábile, -is"
 a hardware:          f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 a monitor:           m. "monitor, -óris"; n. "monitorium, -í"
 a mouse:             m. "mús, múris"; m. "músculus, -í"
@@ -8,6 +10,8 @@ a key:               f. "clávis, -is"
 
 __System__
 
+to shutdowm:         ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum"
+a shutdown:          f. "clausúra, -æ"
 a terminal:          n. "terminále, -is"
 a firewall:          m. "ignis + múrus, -í"
 a system:            n. "systéma, -atis"
@@ -19,6 +23,7 @@ a file:              f. "plica, -æ"
 a folder:            m. "index, -icis"
 a font:              m. "typus, -í"
 a hypertext:         m. "hypertextus, -ús"
+a desktop:           f. "ménsa, -æ"
 a window:            f. "fenestra, -æ"
 
 __Web browser__
