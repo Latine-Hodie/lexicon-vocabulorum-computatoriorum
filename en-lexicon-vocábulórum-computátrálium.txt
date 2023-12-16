@@ -20,7 +20,7 @@ to shutdowm:         ind. præs. "extinguó", inf. præs. "extinguere", ind. per
 a turn on:           f. "accénsió, -ónis"
 a shutdown:          f. "exstínctió, -ónis"
 a terminal:          n. "terminále, -is"
-a firewall:          m. "ignis + múrus, -í"
+a firewall:          m. "ignimúrus, -í"
 a system:            n. "systéma, -atis"
 an operating system: n. "systéma, -atis" + "operátiónále, -is"; n. "systéma, -atis" + "operáns, -antis"
 a network:           n. "réte, -is"
