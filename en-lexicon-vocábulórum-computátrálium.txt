@@ -1,6 +1,6 @@
 __Hardware__
 
-a computer:            n. "computátrum, -í"; n. "computátórium, -í" (ambiguous with a counter); n. "órdinátrum, -í"; n. "órdinátórium, -í"
+a computer:            n. "computátrum, -í"; n. "computátórium, -í" (amb. "a counter"); n. "órdinátrum, -í"; n. "órdinátórium, -í"
 a desktop computer:    n. "computátrum, -í" + "ménsárium, -í"
 a laptop computer:     n. "computátrum, -í" + "portábile, -is"
 a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
@@ -26,7 +26,7 @@ an operating system:   n. "systéma, -atis" + "operátiónále, -is"; n. "systé
 an update:             f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
 a network:             n. "réte, -is"
 an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
-a local network(LAN):  n. "locále, -is" + "réte, -is" (LR)
+a local network(LAN):  n. "locále, -is" + "réte, -is" *LR
 a file:                f. "plica, -æ"; m. "scápus, -í"
 a folder(directory):   f. "théca, -æ"; n. "díréctórium, -í"; f. "mappa, -æ"; m. "index, -icis"
 a font:                f. "figúra, -æ"; m. "typus, -í"
@@ -50,8 +50,8 @@ __Communication__
 
 a mail:                f. "epistola, -æ"
 an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola electronica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
-an e-mail client:      m. "cursus, -ús" + "électrónicus, -í" (early internet ⇒ outdated)
-an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (transl. "e-mail address")
+an e-mail client:      m. "cursus, -ús" + "électrónicus, -í" *early internet ⇒ outdated
+an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 a channel:             m. "canális, -is"
 a chat:                n. "colloquium, -í"
 a message:             m. "núntius, -í"
@@ -62,7 +62,7 @@ to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "v
 __Gaming__
 
 to play a game:        ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum"
-a game:                m. "lúsus, -ús"; m. "lúdus, -í"(ambiguous with a school)
+a game:                m. "lúsus, -ús"; m. "lúdus, -í"(amb. "a school")
 a game session:        f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 a player:              m. "lúsor, -óris"
 coop/multiplayer:      f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúsus, -ús + multórum lúsórum"
