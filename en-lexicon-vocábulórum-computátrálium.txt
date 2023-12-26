@@ -47,11 +47,11 @@ a homepage:            f. "página, -æ" + "domestica, -æ"
 
 __Communication__
 
-a mail:                f. "epistola, -æ"
-an e-mail:             f. "e-epistola, -æ"; f. "épistola, -æ"
+a mail:                f. "epistola, -æ", f. pl. "litteræ, -árum" + "électrónicæ, -árum"
+an e-mail:             f. "e-epistola, -æ"; f. "épistola, -æ"; m. "cursus, -ús" + "electronicus, -í" (early internet ⇒ outdated)
 a channel:             m. "canális, -is"
 a message:             m. "núntius, -í"
-a spam:                m. "núntius, -í" + "nón-rogátus, -í"
+a spam message:        m. "núntius, -í" + "ínsoléns, -entis"
 to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum"
 to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum"
 
