@@ -23,7 +23,7 @@ a terminal:            n. "terminále, -is"
 a firewall:            m. "ignimúrus, -í"
 a system:              n. "systéma, -atis"
 an operating system:   n. "systéma, -atis" + "operátiónále, -is"; n. "systéma, -atis" + "operáns, -antis"
-an update:			   f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
+an update:             f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
 a network:             n. "réte, -is"
 an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
 a local network(LAN):  n. "locále, -is" + "réte, -is" (LR)
@@ -50,10 +50,10 @@ __Communication__
 
 a mail:                f. "epistola, -æ"
 an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola electronica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
-an e-mail client:	     m. "cursus, -ús" + "électrónicus, -í" (early internet ⇒ outdated)
-an e-mail address:	   f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (transl. "e-mail address")
+an e-mail client:      m. "cursus, -ús" + "électrónicus, -í" (early internet ⇒ outdated)
+an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (transl. "e-mail address")
 a channel:             m. "canális, -is"
-a chat:				         n. "colloquium, -í"
+a chat:                n. "colloquium, -í"
 a message:             m. "núntius, -í"
 a spam message:        m. "núntius, -í" + "ínsoléns, -entis"
 to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum"
