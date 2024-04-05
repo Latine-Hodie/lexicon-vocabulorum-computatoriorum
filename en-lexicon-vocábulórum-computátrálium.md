@@ -48,7 +48,7 @@ __Networking__
 __Web browser__
 
 - a web:                 f. "téla, -æ"
-- World Wide Web(WWW):   f. "Téla, -æ + Tótius + Terræ" (TTT)
+- World Wide Web(WWW):   f. "Téla, -æ" + "Tótius" + "Terræ" (TTT)
 - a page:                f. "página, -æ"
 - a homepage:            f. "página, -æ" + "domestica, -æ"
 
