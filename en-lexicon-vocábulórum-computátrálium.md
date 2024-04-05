@@ -24,20 +24,26 @@ __System__
 - a system:              n. "systéma, -atis"
 - an operating system:   n. "systéma, -atis" + "operátiónále, -is"; n. "systéma, -atis" + "operáns, -antis"
 - an update:             f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
-- a network:             n. "réte, -is"
-- an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
-- a local network(LAN):  n. "locále, -is" + "réte, -is" *LR
 - a file:                f. "plica, -æ"; m. "scápus, -í"
 - a folder(directory):   f. "théca, -æ"; n. "díréctórium, -í"; f. "mappa, -æ"; m. "index, -icis"
 - a font:                f. "figúra, -æ"; m. "typus, -í"
 - a hypertext:           m. "hypertextus, -ús"
 - a desktop:             f. "ménsa, -æ"
 - a window:              f. "fenestra, -æ"
-- to record:             ind. præs. "regeró", inf. præs. "regerere", ind. perf. "regessí", supin. "regestum", imper. præs. "regere"
+- to register/record:    ind. præs. "regeró", inf. præs. "regerere", ind. perf. "regessí", supin. "regestum", imper. præs. "regere"
 - a register/recording:  n. "registrum, -í"
 - a list:                m. "catalogus, -í"; n. "album, -í"; m./f. "index, -icis"
 - a to-do list:          n. pl. "agenda, -órum"
 - a cursor:              m. "cursor, -óris"
+
+__Networking__
+
+- a ping:                m. "pulsus, -ús"
+- a tick:                m. "ictus, -ús"
+- a network:             n. "réte, -is"
+- an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
+- a local network(LAN):  n. "locále, -is" + "réte, -is" *LR
+- a wide network(WAN):   n. "magnum, -í" + "réte, -is" *MR
 
 __Web browser__
 
@@ -62,9 +68,13 @@ __Communication__
 __Gaming__
 
 - to play a game:        ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum", imper. præs. "lúde"
-- a game:                m. "lúsus, -ús"; m. "lúdus, -í"(amb. "a school")
-- a game session:        f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
+- a game:                m. "lúdus, -í"(amb. "a school")
+- a video game:          m. "lúdus, í" + "électrónicus, -í"
+- a computer game:       m. "lúdus, í" + "computátrális, -is"
+- a console game:        m. "lúdus, í" + "cónsólis, -is"
+- a mobile game:         m. "lúdus, í" + "telephónicus, -í"
+- a game session:        m. "lúsus, -ús"; f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 - a player:              m. "lúsor, -óris"
-- coop/multiplayer:      f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúsus, -ús + multórum lúsórum"
-- singleplayer:          m. "lúsus, -ús + únius lúsóris"
+- coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum"
+- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "únius lúsóris"
 - a lobby:               n. "vestibulum, -í"
