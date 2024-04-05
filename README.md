@@ -1,8 +1,8 @@
 # lexicon vocábulórum computátrálium
-Liber, quí multa útentia vocábula computátrália habet.
+Liber, quí multa dicta vocábula computátrália habet.
 
 ## Dé hóc lexicó
-Computátra mútavérunt et adhúc mútant nostrum mundum. In hóc novó mundó, quó habitámus, necesse omnibus scíre vocábula computátrália ad loquí in vítís eís est. Itaque causam novum lexicon, quod eós duit, facere invéní. In hóc libró vocábula útentia in colloquís societátibusque interrétiálibus scrípta sunt.
+Computátra mútavérunt et adhúc mútant nostrum mundum. In hóc novó mundó, quó habitámus, necesse omnibus scíre vocábula computátrália ad loquendum in vítís eís est. Itaque causam novum lexicon, quod eós duit, facere invéní. In hóc libró vocábula dicta in colloquís societátibusque interrétiálibus scrípta sunt.
 
 ## Commentáriolum:
 1. Ubi **(etym. lingua "vocábulum")** scríptum est, hoc vocábulum dé alió déscendit.
@@ -20,5 +20,5 @@ Computátra mútavérunt et adhúc mútant nostrum mundum. In hóc novó mundó,
   * **lingua** est hæc, dé quá vocábulum hujus lexicí déscendit et scrípta est in fórmá abbreviátá ut 'en.' pró anglicá, 'la.' pró latíná, &c. Vidé [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)!
   * **vocábulum** est hoc, dé quó vocábulum hujus lexicí déscendit, et scríptum in oríginálí linguá est.
     
-5. Ubi **\*notæ** scríptæ sunt, nóbis necesse aliquid dé útere hujus vocábulí scíre est.
+5. Ubi **\*notæ** scríptæ sunt, aliquid dé úsióne hujus vocábulí sciendum est.
   * **notæ** sunt rés scríptæ.
