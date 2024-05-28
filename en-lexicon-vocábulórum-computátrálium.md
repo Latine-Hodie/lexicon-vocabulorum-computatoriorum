@@ -1,11 +1,13 @@
 __Hardware__
 
-- a computer:            n. "computátrum, -í"; n. "computátórium, -í" (amb. "a counter"); n. "órdinátrum, -í"; n. "órdinátórium, -í"
+- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "órdinátórium, -í"; n. "computátrum, -í"; n. "órdinátrum, -í"
 - a desktop computer:    n. "computátrum, -í" + "ménsárium, -í"
 - a laptop computer:     n. "computátrum, -í" + "portábile, -is"
+- a television/TV:       f. "télevísió, -ónis"
+- a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 - a monitor:             m. "monitor, -óris"; n. "monitorium, -í"
-- a mouse:               m. "mús, múris"; m. "músculus, -í"
+- a mouse:               m. "mús, múris" (formal); m. "músculus, -í" (colloquial)
 - a keyboard:            f. "cláviatúra, -æ"
 - a key:                 f. "clávis, -is"
 
@@ -55,7 +57,7 @@ __Web browser__
 __Communication__
 
 - a mail:                f. "epistola, -æ"
-- an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola electronica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
+- an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola électrónica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
 - an e-mail client:      m. "cursus, -ús" + "électrónicus, -í" *early internet ⇒ outdated
 - an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 - a channel:             m. "canális, -is"
@@ -70,9 +72,9 @@ __Gaming__
 - to play a game:        ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum", imper. præs. "lúde"
 - a game:                m. "lúdus, -í"(amb. "a school")
 - a video game:          m. "lúdus, í" + "électrónicus, -í"
-- a computer game:       m. "lúdus, í" + "computátrális, -is"
+- a computer game:       m. "lúdus, í" + "computátórius, -í"; m. "lúdus, í" + "computátrális, -is"
 - a console game:        m. "lúdus, í" + "cónsólis, -is"
-- a mobile game:         m. "lúdus, í" + "telephónicus, -í"
+- a mobile game:         m. "lúdus, í" + "télephónicus, -í"
 - a game session:        m. "lúsus, -ús"; f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 - a player:              m. "lúsor, -óris"
 - coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum"
