@@ -1,8 +1,8 @@
 __Hardware__
 
 - a computer:            n. "computátórium, -í" (amb. "a counter"); n. "órdinátórium, -í"; n. "computátrum, -í"; n. "órdinátrum, -í"
-- a desktop computer:    n. "computátrum, -í" + "ménsárium, -í"
-- a laptop computer:     n. "computátrum, -í" + "portábile, -is"
+- a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"; n. "computátrum, -í" + "ménsárium, -í"
+- a laptop computer:     n. "computátórium, -í" + "portábile, -is"; n. "computátrum, -í" + "portábile, -is"
 - a television/TV:       f. "télevísió, -ónis"
 - a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
