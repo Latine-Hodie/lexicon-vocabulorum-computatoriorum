@@ -32,7 +32,7 @@ __System__
 - a hypertext:           m. "hypertextus, -ús"
 - a desktop:             f. "ménsa, -æ"
 - a window:              f. "fenestra, -æ"
-- to register/record:    ind. præs. "regeró", inf. præs. "regerere", ind. perf. "regessí", supin. "regestum", imper. præs. "regere"
+- to register/record:    ind. præs. "registró", inf. præs. "registráre", ind. perf. "registráví", supin. "registrátum", imper. præs. "registrá"
 - a register/recording:  n. "registrum, -í"
 - a list:                m. "catalogus, -í"; n. "album, -í"; m./f. "index, -icis"
 - a to-do list:          n. pl. "agenda, -órum"
