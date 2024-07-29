@@ -1,26 +1,40 @@
-__Hardware__
+# __Hardware__
 
-- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "órdinátórium, -í"; n. "computátrum, -í"; n. "órdinátrum, -í"
+- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
 - a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"; n. "computátrum, -í" + "ménsárium, -í"
 - a laptop computer:     n. "computátórium, -í" + "portábile, -is"; n. "computátrum, -í" + "portábile, -is"
 - a television/TV:       f. "télevísió, -ónis"
-- a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónium, -í"
+- a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónum, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
-- a monitor:             m. "monitor, -óris"; n. "monitorium, -í"
+- a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
 - a mouse:               m. "mús, múris" (formal); m. "músculus, -í" (colloquial)
 - a keyboard:            f. "cláviatúra, -æ"
 - a key:                 f. "clávis, -is"
+- an earphone:           n. "auriculáre, -is"
 
-__System__
+# __User__
+
+- a user:                m. "úsuárius, -í" (male/undefined); f. "úsuária, -æ" (female)
+- a username:            n. "nómen, -inis" + "úsuárií/æ"
+
+# __Resolution__
+
+- a screen:              n. "speculum, -í"
+- a field of view(FOV):  m. "campus, -í" + "vísiónis"
+
+# __System__
 
 - to open:               ind. præs. "aperió", inf. præs. "aperíre", ind. perf. "aperuí", supin. "apertum", imper. præs. "aperí"
 - to cover:              ind. præs. "véló", inf. præs. "véláre", ind. perf. "véláví", supin. "vélátum", imper. præs. "vélá"
 - to uncover:            ind. præs. "revéló", inf. præs. "revéláre", ind. perf. "revéláví", supin. "revélátum", imper. præs. "revélá"
 - to close:              ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum", imper. præs. "claude"
+- to load:               ind. præs. "prómó", inf. præs. "prómere", ind. perf. "prómpsí", supin. "prómptum", imper. præs. "próme"
+- to save:               ind. præs. "servó", inf. præs. "serváre", ind. perf. "serváví", supin. "servátum", imper. præs. "servá"
 - to turn on:            ind. præs. "accendó", inf. præs. "accendere", ind. perf. "accendí", supin. "accénsum", imper. præs. "accende"
 - to shutdowm:           ind. præs. "extinguó", inf. præs. "extinguere", ind. perf. "extínxí", supin. "extínctum", imper. præs. "extingue"
-- a turn on:             f. "accénsió, -ónis"
+- a turning on:          f. "accénsió, -ónis"
 - a shutdown:            f. "exstínctió, -ónis"
+- a prompt:              n. "prómptum, -í"
 - a terminal:            n. "terminále, -is"
 - a firewall:            m. "ignimúrus, -í"
 - a system:              n. "systéma, -atis"
@@ -38,23 +52,24 @@ __System__
 - a to-do list:          n. pl. "agenda, -órum"
 - a cursor:              m. "cursor, -óris"
 
-__Networking__
+# __Networking__
 
+- a link:                n. "vinculum, -í"
 - a ping:                m. "pulsus, -ús"
 - a tick:                m. "ictus, -ús"
-- a network:             n. "réte, -is"
+- a network/net:         n. "réte, -is"
 - an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
 - a local network(LAN):  n. "locále, -is" + "réte, -is" *LR
 - a wide network(WAN):   n. "magnum, -í" + "réte, -is" *MR
 
-__Web browser__
+# __Web browser__
 
 - a web:                 f. "téla, -æ"
 - World Wide Web(WWW):   f. "Téla, -æ" + "Tótius" + "Terræ" (TTT)
 - a page:                f. "página, -æ"
 - a homepage:            f. "página, -æ" + "domestica, -æ"
 
-__Communication__
+# __Communication__
 
 - a mail:                f. "epistola, -æ"
 - an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola électrónica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
@@ -67,7 +82,7 @@ __Communication__
 - to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum", imper. præs. "mitte"
 - to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum", imper. præs. "vocá"
 
-__Gaming__
+# __Gaming__
 
 - to play a game:        ind. præs. "lúdó", inf. præs. "lúdere", ind. perf. "lúsí", supin. "lúsum", imper. præs. "lúde"
 - a game:                m. "lúdus, -í"(amb. "a school")
