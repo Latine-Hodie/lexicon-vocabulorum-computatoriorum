@@ -1,15 +1,16 @@
 # __Hardware__
 
-- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
-- a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"; n. "computátrum, -í" + "ménsárium, -í"
-- a laptop computer:     n. "computátórium, -í" + "portábile, -is"; n. "computátrum, -í" + "portábile, -is"
+- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "computárium, -í" (etym. la. "computátórium"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
+- a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"
+- a laptop computer:     n. "computátórium, -í" + "portábile, -is"
 - a television/TV:       f. "télevísió, -ónis"
 - a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónum, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 - a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
+- to click(sound):       ind. præs. "crepó", inf. præs. "crepáre", ind. perf. "crepuí", supin. "crepitum", imper. præs. "crepá"
 - a mouse:               m. "mús, múris" (formal); m. "músculus, -í" (colloquial)
 - a keyboard:            f. "cláviatúra, -æ"
-- a key:                 f. "clávis, -is"
+- a key or button:       f. "clávis, -is"
 - an earphone:           n. "auriculáre, -is"
 
 # __User__
@@ -51,6 +52,7 @@
 - a list:                m. "catalogus, -í"; n. "album, -í"; m./f. "index, -icis"
 - a to-do list:          n. pl. "agenda, -órum"
 - a cursor:              m. "cursor, -óris"
+- to click(touch):       ind. præs. "tangó", inf. præs. "tangere", ind. perf. "tetigí", supin. "táctum", imper. præs. "tange"; ind. præs. "pulsó", inf. præs. "pulsáre", ind. perf. "pulsáví", supin. "pulsátum", imper. præs. "pulsá"
 
 # __Networking__
 
