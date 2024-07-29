@@ -75,12 +75,12 @@
 
 - a mail:                f. "epistola, -æ"
 - an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola électrónica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
-- an e-mail client:      m. "cursus, -ús" + "électrónicus, -í" *early internet ⇒ outdated
+- an e-mail servis:      m. "cursus, -ús" + "électrónicus, -í" *early internet ⇒ outdated
 - an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 - a channel:             m. "canális, -is"
 - a chat:                n. "colloquium, -í"
 - a message:             m. "núntius, -í"
-- a spam message:        m. "núntius, -í" + "ínsoléns, -entis"
+- a spam message:        m. "núntius, -í" + "ínsoléns, -entis"; n. "ínsoléns, -entis"
 - to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum", imper. præs. "mitte"
 - to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum", imper. præs. "vocá"
 
