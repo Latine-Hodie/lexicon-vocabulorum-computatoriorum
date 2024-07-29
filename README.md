@@ -1,8 +1,8 @@
-# lexicon vocábulórum computátrálium
-Liber, quí multa dicta vocábula computátrália habet.
+# lexicon vocábulórum computálium
+Caudex, quí multa dicta vocábula computália habet.
 
 ## Dé hóc lexicó
-Computátra mútavérunt et adhúc mútant nostrum mundum. In hóc novó mundó, quó habitámus, necesse omnibus scíre vocábula computátrália ad loquendum in vítís eís est. Itaque causam novum lexicon, quod eós duit, facere invéní. In hóc libró vocábula dicta in colloquís societátibusque interrétiálibus scrípta sunt.
+Computária etiam mútant nostrum mundum. In hóc novó mundó, quó in habitámus, necesse omnibus scíre vocábula computália ad loquendum in vítís eís est. Itaque causam novum lexicon, quod eós duit, facere invéní. In hóc libró vocábula dicta in colloquís societátibusque interrétiálibus scrípta sunt.
 
 ## Commentáriolum:
 1. Ubi **(etym. lingua "vocábulum")** scríptum est, hoc vocábulum dé alió déscendit.
