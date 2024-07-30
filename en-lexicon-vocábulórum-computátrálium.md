@@ -1,9 +1,14 @@
+# __Characters__
+
+- an asterisk( * ):      m. "asteriscus, -í"
+- a vertical line( | ):  f. "línea, -æ" + "verticális, -is"
+
 # __Hardware__
 
 - a computer:            n. "computátórium, -í" (amb. "a counter"); n. "computárium, -í" (etym. la. "computátórium"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
 - a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"
 - a laptop computer:     n. "computátórium, -í" + "portábile, -is"
-- a television/TV:       f. "télevísió, -ónis"
+- a television(TV):       f. "télevísió, -ónis" (TV)
 - a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónum, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 - a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
