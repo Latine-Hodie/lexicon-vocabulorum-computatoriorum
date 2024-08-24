@@ -91,7 +91,7 @@
 
 - a mail:                f. "epistola, -æ"
 - an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola électrónica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
-- an e-mail servis:      m. "cursus, -ús" + "électrónicus, -í" *early internet ⇒ outdated
+- an e-mail servis:      m. "cursus, -ús" + "électrónicus, -í"
 - an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 - a channel:             m. "canális, -is"
 - a chat:                n. "colloquium, -í"
