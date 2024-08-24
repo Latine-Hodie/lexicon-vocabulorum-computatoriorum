@@ -78,7 +78,7 @@
 - a wide network(WAN):   n. "magnum, -í" + "réte, -is" *MR
 - to download:           ind. præs. "déferó", inf. præs. "déferre", ind. perf. "détulí", supin. "délátum", imper. præs. "défer"
 - to upload:             ind. præs. "afferó", inf. præs. "afferre", ind. perf. "attulí", supin. "allátum", imper. præs. "affer"
-- a server:              n. "administrátórium, -í"; n. "ministrátórium, -í"; m. "server, -is" (import. en. "server"); n. "server" indécl. 
+- a server:              n. "administrátórium, -í"; n. "ministrátórium, -í"; m./n. "server, -is" (import. en. "server"); n. "server" indécl. (import. en. "server")
 
 ## __Web browser__
 
