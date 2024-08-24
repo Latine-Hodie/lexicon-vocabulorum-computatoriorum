@@ -3,7 +3,7 @@
 - Ubuntu(Linux):        f. "Ubuntus, -ús"
 - Windows:              f. "Fenestra, -æ"
 
-## __Characters__
+## __Characters__
 
 - an asterisk( * ):      m. "asteriscus, -í"
 - a vertical line( | ):  f. "línea, -æ" + "verticális, -is"
