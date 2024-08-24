@@ -65,7 +65,7 @@
 - a cursor:              m. "cursor, -óris"
 - to click(touch):       ind. præs. "tangó", inf. præs. "tangere", ind. perf. "tetigí", supin. "táctum", imper. præs. "tange"; ind. præs. "pulsó", inf. præs. "pulsáre", ind. perf. "pulsáví", supin. "pulsátum", imper. præs. "pulsá"
 - to crash:              ind. præs. "concidó", inf. præs. "concidere", ind. perf. "concidí", núll. supin., imper. præs. "concide"
-- disk space/storage:    n. "spatium"
+- disk space/storage:    n. "spatium, -í" + "in discó"
 
 ## __Networking__
 
