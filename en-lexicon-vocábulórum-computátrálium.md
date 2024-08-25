@@ -10,12 +10,17 @@
 - If a term is in actual common use, but is not adviceble on terms of latinity of the form, it shall be stated, but with a line through it(eg. ~~n. "computátrum, -í"~~) marking it as bad influence and should be discontinued.
 - Terms that were directly imported instead of translated or related to their cognates should be marked(eg. (import. en. "server"))
 - If viewed as important, there should be usage notes(eg. *mostly used in the plural as auriculária for earphones/headset)
+- 
 
 
 ## __Given Names__
+It is adviced to not translate names of products and companies as it could render them difficult to search up. It still does happen in practice though and here are some examples. If you can slip it into a declension system without such issues, you may do so, but otherwise stick to using their names without any changes as indeclinables.
 - Linux:                f. "Linux, -cis"
 - Ubuntu(Linux):        f. "Ubuntus, -ús"
-- Windows:              f. "Fenestra, -æ"
+- Windows:              f. "Fenestræ, -árum"
+- Discord:              f. "Discordia, -æ"; n. "Discordárium, -í";
+- Instagram:            n. "Ínstagramma, -atis"
+- Facebook:             m. "Faciéiliber, -rí"
 
 ## __Characters__
 
