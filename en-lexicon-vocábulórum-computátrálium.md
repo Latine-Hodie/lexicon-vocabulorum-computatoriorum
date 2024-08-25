@@ -1,3 +1,17 @@
+# __LEXICON VOCÁBULÓRUM COMPUTÁTÓRIÓRUM__
+- A thorough dictionary of technical vocabulary that I could attest in actual use by people that speak at least intermediate Latin or better on the internet(beginners excluded, so also a chunk of Vicipædia) on a multitude of platforms, mostly Discord, Reddit, several forums and Latin websites. I saw an issue in neolatinlexicon citing dictionaries that made up words that no one ever used before their publications and most haven't been used once since either, typically also making up a set of multiple terms for no reason as if everyone was supposed to memorise a set of terms if they wanted to hold a conversation, where many words would not even be close to latinity or sometimes were straight up new Ancient Greek words created just to import it to Latin, of which many were still too general to avoid circumlocutions. Hence I decided to make a dictionary that would be more concerned with guiding it's readers in how to use Latin in computer sciences to a greater degree of accuracy.
+
+- This dictionary is always a work in progress and I shall keep on expanding it based on what I scan on the internet and there are still loads of screenshots worth of conversations that I have not yet gotten to. If you can attest to skilled latinists using concrete technical vocabulary that is not on the list, feel free to contact me and attest it with links and screenshots. Thank you!
+
+### How is it written
+- Neolatin words that were created for the dictionaries to fill the entries, but never ended up being used by skilled latinists are dropped as if they were never coined in the first place. This dictionary is only concerned with what is actually said by people out there, not what one person said others should and stayed ignored and only speakers with latinitas are accounted for, you aren't to coin a term unless you can confidently produce Latin on your own.
+- Unless a term is globally internationalised(eg. télephónum, mícrophónum), Ancient Greek should be avoided. Knowing any other languange besides one's native should not be expected to speak Latin. Do not create words in Ancient Greek solely to import them to Latin. "Whatever Greek was there to bring into Latin, Romans already brought it."
+- Ancient Romans weren't exactly shy of importing words from other languages, but stick to more Classical Latin if possible, except if greatly internationalised vocabulary is of mediæval Latin origin, i.e. registráre for registration exists in basically every language in Europe. If we are to accept neologisms at all, then mediævalisms were exactly that in their time and they are better than making up more words just to avoid them. You can always ask yourself: if ancient Romans were alive today and were part of this cultural block, would they say it? Recognisability internationally matters, but it does not include a need to speak English, so imports from English are only permissible, where they regularly happen in all other european languages too and such terms are still at the bottom of the recommended terms.
+- If a term is in actual common use, but is not adviceble on terms of latinity of the form, it shall be stated, but with a line through it(eg. ~~n. "computátrum, -í"~~) marking it as bad influence and should be discontinued.
+- Terms that were directly imported instead of translated or related to their cognates should be marked(eg. (import. en. "server"))
+- If viewed as important, there should be usage notes(eg. *mostly used in the plural as auriculária for earphones/headset)
+
+
 ## __Given Names__
 - Linux:                f. "Linux, -cis"
 - Ubuntu(Linux):        f. "Ubuntus, -ús"
@@ -10,10 +24,10 @@
 
 ## __Hardware__
 
-- a computer:            n. "computátórium, -í" (amb. "a counter"); n. "computárium, -í" (etym. la. "computátórium"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
+- a computer:            n. "computátórium, -í"; n. "computárium, -í" (etym. la. "computátórium"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
 - a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"
 - a laptop computer:     n. "computátórium, -í" + "portábile, -is"
-- a television(TV):       f. "télevísió, -ónis" (TV)
+- a television(TV):      f. "télevísió, -ónis" (TV)
 - a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónum, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 - a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
