@@ -59,7 +59,7 @@ It is adviced to not translate names of products and companies as it could rende
 - to cover:              ind. præs. "véló", inf. præs. "véláre", ind. perf. "véláví", supin. "vélátum", imper. præs. "vélá"
 - to uncover:            ind. præs. "revéló", inf. præs. "revéláre", ind. perf. "revéláví", supin. "revélátum", imper. præs. "revélá"
 - to close:              ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum", imper. præs. "claude"
-- to load:               ind. præs. "prómó", inf. præs. "prómere", ind. perf. "prómpsí", supin. "prómptum", imper. præs. "próme"
+- to load:               ind. præs. "déprómó", inf. præs. "déprómere", ind. perf. "déprómpsí", supin. "déprómptum", imper. præs. "dépróme"
 - to save:               ind. præs. "servó", inf. præs. "serváre", ind. perf. "serváví", supin. "servátum", imper. præs. "servá"
 - to turn on:            ind. præs. "accendó", inf. præs. "accendere", ind. perf. "accendí", supin. "accénsum", imper. præs. "accende"
 - to shutdowm:           ind. præs. "extinguó", inf. præs. "extinguere", ind. perf. "extínxí", supin. "extínctum", imper. præs. "extingue"
