@@ -17,7 +17,7 @@
 It is adviced to not translate names of products and companies as it could render them difficult to search up. It still does happen in practice though and here are some examples. If you can slip it into a declension system without such issues, you may do so, but otherwise stick to using their names without any changes as indeclinables.
 - Linux:                f. "Linux, -cis"
 - Ubuntu(Linux):        f. "Ubuntus, -ús"
-- Windows:              f. "Fenestræ, -árum"
+- Windows:              f. pl. "Fenestræ, -árum"
 - Discord:              f. "Discordia, -æ"; n. "Discordárium, -í";
 - Instagram:            n. "Ínstagramma, -atis"
 - Facebook:             m. "Faciéiliber, -rí"
@@ -130,5 +130,5 @@ It is adviced to not translate names of products and companies as it could rende
 - a game session:        m. "lúsus, -ús"; f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 - a player:              m. "lúsor, -óris"
 - coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum"
-- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "únius lúsóris"
+- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "úníus lúsóris"
 - a lobby:               n. "vestibulum, -í"
