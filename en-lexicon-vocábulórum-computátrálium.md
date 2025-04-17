@@ -10,7 +10,7 @@
 - If a term is in actual common use, but is not adviceble on terms of latinity of the form, it shall be stated, but with a line through it(eg. ~~n. "computátrum, -í"~~) marking it as bad influence and should be discontinued.
 - Terms that were directly imported instead of translated or related to their cognates should be marked(eg. (import. en. "server"))
 - If viewed as important, there should be usage notes(eg. *mostly used in the plural as auriculária for earphones/headset)
-- 
+- In circumlocutions, some constructions have only some words decline, while another can simply stay in its own case. This is marked by providing a genitive ending after a word that would decline and not for others.(eg. f. "Téla, -æ" + "Tótíus" + "Terræ" (TTT))
 
 
 ## __Given Names__
@@ -32,7 +32,7 @@ It is adviced to not translate names of products and companies as it could rende
 - a computer:            n. "computátórium, -í"; n. "computárium, -í" (etym. la. "computátórium"); n. "órdinátórium, -í"; ~~n. "computátrum, -í"; n. "órdinátrum, -í"~~
 - a desktop computer:    n. "computátórium, -í" + "ménsárium, -í"
 - a laptop computer:     n. "computátórium, -í" + "portábile, -is"
-- a television(TV):      f. "télevísió, -ónis" (TV)
+- a television(TV):      f. "télevísió, -ónis" (TV); n. "ínstrúmentum, -í" + "télevísificum, -í"
 - a telephone/phone:     n. "télephónum, -í"; n. "télephónium, -í"; n. "phónum, -í"; n. "phónium, -í"
 - a hardware:            f. "supellex, -ctilis"; f. "armátúra, -æ" + "électrónica, -æ"
 - a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
@@ -51,7 +51,7 @@ It is adviced to not translate names of products and companies as it could rende
 ## __Resolution__
 
 - a screen:              n. "speculum, -í"
-- a field of view(FOV):  m. "campus, -í" + "vísiónis"
+- a field of view(FOV):  m. "cónspectus, -ús "; m. "campus, -í" + "vísiónis" (interpret. "field of view")
 
 ## __System__
 
@@ -74,14 +74,14 @@ It is adviced to not translate names of products and companies as it could rende
 - a file:                f. "plica, -æ"; m. "scápus, -í"
 - a folder(directory):   f. "théca, -æ"; n. "díréctórium, -í"; f. "mappa, -æ"; m. "index, -icis"
 - a font:                f. "figúra, -æ"; m. "typus, -í"
-- a hypertext:           m. "hypertextus, -ús"
+- a hypertext:           ~~m. "hypertextus, -ús"~~ *nowadays rarely distinguished from a link, see vinculum
 - a desktop:             n. "plánum, -í"; f. "ménsa, -æ"
 - a window:              f. "fenestra, -æ".
 - to register/record:    ind. præs. "registró", inf. præs. "registráre", ind. perf. "registráví", supin. "registrátum", imper. præs. "registrá"
 - a register/recording:  n. "registrum, -í"
 - a list:                m. "catalogus, -í"; n. "album, -í"; m./f. "index, -icis"
 - a to-do list:          n. pl. "agenda, -órum"
-- a cursor:              m. "cursor, -óris"
+- a cursor:              ~~m. "cursor, -óris"~~
 - to click(touch):       ind. præs. "tangó", inf. præs. "tangere", ind. perf. "tetigí", supin. "táctum", imper. præs. "tange"; ind. præs. "pulsó", inf. præs. "pulsáre", ind. perf. "pulsáví", supin. "pulsátum", imper. præs. "pulsá"
 - to crash:              ind. præs. "concidó", inf. præs. "concidere", ind. perf. "concidí", núll. supin., imper. præs. "concide"
 - disk space/storage:    n. "spatium, -í" + "in discó"
@@ -91,8 +91,8 @@ It is adviced to not translate names of products and companies as it could rende
 - a link:                n. "vinculum, -í"
 - a ping:                m. "pulsus, -ús"
 - a tick:                m. "ictus, -ús"
-- a network/net:         n. "réte, -is"
-- an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet")
+- a network/net:         n. "réte, -is" *doing something online => doing 'per réte'
+- an internet:           n. "interréte, -is"; n. "internetum, -í" (import. en. "internet") *practically can be both avoided by using réte
 - a local network(LAN):  n. "locále, -is" + "réte, -is" *LR
 - a wide network(WAN):   n. "magnum, -í" + "réte, -is" *MR
 - to download:           ind. præs. "déferó", inf. præs. "déferre", ind. perf. "détulí", supin. "délátum", imper. præs. "défer"
@@ -108,16 +108,18 @@ It is adviced to not translate names of products and companies as it could rende
 
 ## __Communication__
 
-- a mail:                f. "epistola, -æ"
+- a mail:                f. "epistola, -æ" *consider also commonly used form epistula for all derivatives
 - an e-mail:             f. "e-epistola, -æ" (etym. la. "epistola électrónica"); f. "épistola, -æ" (etym. la. "e-epistola"); f. pl. "litteræ, -árum" + "électrónicæ, -árum"
 - an e-mail servis:      m. "cursus, -ús" + "électrónicus, -í"
 - an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 - a channel:             m. "canális, -is"
-- a chat:                n. "colloquium, -í"
-- a message:             m. "núntius, -í"
-- a spam message:        m. "núntius, -í" + "ínsoléns, -entis"; n. "ínsoléns, -entis"
+- a voice channel:       m. "canális, -is" + "vócális, -is" *contextually often also chat, see below
+- a chat:                n. "colloquium, -í"; n. "locutórium, -í"
+- a message:             n. "núntium, -í"; m. "núntius, -í"
+- a spam message:        n. "núntium, -í"; m. "núntius, -í" + "ínsoléns, -entis"; n. "ínsoléns, -entis"
 - to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum", imper. præs. "mitte"
 - to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum", imper. præs. "vocá"
+- to mention(chat ping): "mentiónem" + ind. præs. "fació", inf. præs. "facere", ind. perf. "fécí", supin. "factum", imper. præs. "fac"; ind. præs. "citó", inf. præs. "citáre", ind. perf. "citáví", supin. "citátum", imper. præs. "citá"
 
 ## __Gaming__
 
@@ -129,6 +131,6 @@ It is adviced to not translate names of products and companies as it could rende
 - a mobile game:         m. "lúdus, í" + "télephónicus, -í"
 - a game session:        m. "lúsus, -ús"; f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 - a player:              m. "lúsor, -óris"
-- coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum"
-- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "úníus lúsóris"
+- coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum" *contrasted with lúsus instead of lúdus if it is a multiplayer mode instance on a game that allows for singleplayer
+- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "úníus lúsóris" *contrasted with lúsus instead of lúdus if it is a singleplayer mode instance on a game that allows for multiplayer
 - a lobby:               n. "vestibulum, -í"
