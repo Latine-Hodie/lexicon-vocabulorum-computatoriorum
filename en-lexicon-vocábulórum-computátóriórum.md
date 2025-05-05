@@ -113,9 +113,9 @@ It is adviced to not translate names of products and companies as it could rende
 - an e-mail address:     f. "ínscríptió, -ónis" + "électrónica, -æ"; f. "addírectió, -ónis" + "épistolica, -æ" (interpret. "e-mail address")
 - a channel:             m. "canális, -is"
 - a voice channel:       m. "canális, -is" + "vócális, -is" *contextually often also chat, see below
-- a chat:                n. "colloquium, -í"; n. "locutórium, -í"
+- a chat:                n. "colloquium, -í"; n. "locútórium, -í"
 - a message:             n. "núntium, -í"; m. "núntius, -í"
-- a spam message:        n. "núntium, -í"; m. "núntius, -í" + "ínsoléns, -entis"; n. "ínsoléns, -entis"
+- a spam message:        n. "núntium, -í" + "ínsoléns, -entis"; m. "núntius, -í" + "ínsoléns, -entis"; n. "ínsoléns, -entis"
 - to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum", imper. præs. "mitte"
 - to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum", imper. præs. "vocá"
 - to mention(chat ping): "mentiónem" + ind. præs. "fació", inf. præs. "facere", ind. perf. "fécí", supin. "factum", imper. præs. "fac"; ind. præs. "citó", inf. præs. "citáre", ind. perf. "citáví", supin. "citátum", imper. præs. "citá"
