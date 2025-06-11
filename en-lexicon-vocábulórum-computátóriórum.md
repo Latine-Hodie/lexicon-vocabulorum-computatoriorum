@@ -105,6 +105,8 @@ It is adviced to not translate names of products and companies as it could rende
 - World Wide Web(WWW):   f. "Téla, -æ" + "Tótíus" + "Terræ" (TTT)
 - a page:                f. "página, -æ"
 - a homepage:            f. "página, -æ" + "domestica, -æ"
+- to login:              ind. præs. "intró", inf. præs. "intráre", ind. perf. "intráví", supin. "intrátum", imper. præs. "intrá"
+  
 
 ## __Communication__
 
