@@ -70,7 +70,7 @@ It is adviced to not translate names of products and companies as it could rende
 - a system:              n. "systéma, -atis"
 - an operating system:   n. "systéma, -atis" + "operátiónále, -is"; n. "systéma, -atis" + "operáns, -antis"
 - an update:             f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
-- a file:                f. "plica, -æ"; m. "scápus, -í"
+- a file:                f. "plica, -æ"; m. "scápus, -í"; n. "fílum, -í"
 - a folder(directory):   f. "théca, -æ"; n. "díréctórium, -í"; f. "mappa, -æ"; m. "index, -icis"
 - a font:                f. "figúra, -æ"; m. "typus, -í"
 - a hypertext:           ~~m. "hypertextus, -ús"~~ *nowadays rarely distinguished from a link, see vinculum
