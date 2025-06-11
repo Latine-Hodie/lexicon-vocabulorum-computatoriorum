@@ -16,7 +16,7 @@
 ## __Given Names__
 It is adviced to not translate names of products and companies as it could render them difficult to search up. It still does happen in practice though and here are some examples. If you can slip it into a declension system without such issues, you may do so, but otherwise stick to using their names without any changes as indeclinables.
 - Linux:                f. "Linux, -cis"
-- Ubuntu(Linux):        f. "Ubuntus, -ús"
+- Ubuntu(Linux):        m. "Ubuntus, -ús"
 - Windows:              f. pl. "Fenestræ, -árum"
 - Discord:              f. "Discordia, -æ"; n. "Discordárium, -í";
 - Instagram:            n. "Ínstagramma, -atis"
