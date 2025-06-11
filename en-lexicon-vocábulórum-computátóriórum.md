@@ -54,7 +54,7 @@ It is adviced to not translate names of products and companies as it could rende
 
 ## __System__
 
-- to open:               ind. præs. "aperió", inf. præs. "aperíríus?e", ind. perf. "aperuí", supin. "apertum", imper. præs. "aperí"
+- to open:               ind. præs. "aperió", inf. præs. "aperíre?e", ind. perf. "aperuí", supin. "apertum", imper. præs. "aperí"
 - to cover:              ind. præs. "véló", inf. præs. "véláre", ind. perf. "véláví", supin. "vélátum", imper. præs. "vélá"
 - to uncover:            ind. præs. "revéló", inf. præs. "revéláre", ind. perf. "revéláví", supin. "revélátum", imper. præs. "revélá"
 - to close:              ind. præs. "claudó", inf. præs. "claudere", ind. perf. "clausí", supin. "clausum", imper. præs. "claude"
@@ -100,6 +100,7 @@ It is adviced to not translate names of products and companies as it could rende
 
 ## __Web browser__
 
+- a web address(URL/IP): m. "situs, -ús"
 - a web:                 f. "téla, -æ"
 - World Wide Web(WWW):   f. "Téla, -æ" + "Tótíus" + "Terræ" (TTT)
 - a page:                f. "página, -æ"
