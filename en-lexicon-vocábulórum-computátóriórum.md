@@ -133,6 +133,6 @@ It is adviced to not translate names of products and companies as it could rende
 - a mobile game:         m. "lúdus, í" + "télephónicus, -í"
 - a game session:        m. "lúsus, -ús"; f. "lúsió, -ónis"; f. "sessió, -ónis" + "lúsa, -æ"
 - a player:              m. "lúsor, -óris"
-- coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum" *contrasted with lúsus instead of lúdus if it is a multiplayer mode instance on a game that allows for singleplayer
-- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "úníus lúsóris" *contrasted with lúsus instead of lúdus if it is a singleplayer mode instance on a game that allows for multiplayer
+- coop/multiplayer:      m. "lúdus, -í" + "in multitúdine"; f. "cooperátió, -ónis"; n. "collúdium, -í"; m. "lúdus, -í" + "multórum lúsórum" *contrasted with lúsus instead of lúdus if it is a multiplayer mode instance within a game - such as online world
+- singleplayer:          m. "lúdus, -í" + "in sólitúdine"; m. "lúdus, -í" + "úníus lúsóris" *contrasted with lúsus instead of lúdus if it is a singleplayer mode instance within a game - such as offline world
 - a lobby:               n. "vestibulum, -í"
