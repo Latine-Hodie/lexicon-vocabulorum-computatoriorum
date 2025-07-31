@@ -37,7 +37,7 @@ It is adviced to not translate names of products and companies as it could rende
 - a monitor:             n. "quadrum, -í"; "n. "monitórium, -í"
 - to click(sound):       ind. præs. "crepó", inf. præs. "crepáre", ind. perf. "crepuí", supin. "crepitum", imper. præs. "crepá"
 - a mouse:               m. "mús, múris" (formal); m. "músculus, -í" (colloquial)
-- a keyboard:            f. "cláviatúra, -æ"
+- a keyboard:            f. "cláviátúra, -æ"
 - a key or button:       f. "clávis, -is"
 - an earphone:           n. "auriculáre, -is" *mostly used in the plural as auriculária for earphones/headset
 - a microphone:          n. "mícrophónum, -í"; n. "mícrophónium, -í"
