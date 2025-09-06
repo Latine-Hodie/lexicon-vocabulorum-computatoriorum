@@ -20,6 +20,7 @@ It is adviced to not translate names of products and companies as it could rende
 - Windows:              f. pl. "Fenestræ, -árum"
 - Discord:              f. "Discordia, -æ"; n. "Discordárium, -í";
 - Instagram:            n. "Ínstagramma, -atis"
+- Android:              m./f. "androídés, is"
 
 ## __Characters__
 
@@ -72,7 +73,7 @@ It is adviced to not translate names of products and companies as it could rende
 - to run program/app:    ind. præs. "agó", inf. præs. "agere", ind. perf. "égí", supin. "áctum", imper. præs. "age"
 - a program(application):n. "programma, -atis" *eg. programma per systéma agitur
 - an update:             f. "renovátió, -ónis"; f. "áctuálisátió, -ónis"
-- a file:                f. "plica, -æ"; m. "scápus, -í"; n. "fílum, -í"
+- a file:                f. "plica, -æ"; m. "scápus, -í"; n. "fílum, -í"; m. "fasciculus, -í"
 - a folder(directory):   f. "théca, -æ"; n. "díréctórium, -í"; f. "mappa, -æ"; m. "index, -icis"
 - a font:                f. "figúra, -æ"; m. "typus, -í"
 - a hypertext:           ~~m. "hypertextus, -ús"~~ *nowadays rarely distinguished from a link, see vinculum
@@ -89,6 +90,7 @@ It is adviced to not translate names of products and companies as it could rende
 
 ## __Networking__
 
+- a data packet:         m. "fasciculus, -í"
 - a link:                n. "vinculum, -í"
 - a ping:                m. "pulsus, -ús"
 - a tick:                m. "ictus, -ús"
@@ -124,6 +126,12 @@ It is adviced to not translate names of products and companies as it could rende
 - to send:               ind. præs. "mittó", inf. præs. "mittere", ind. perf. "mísí", supin. "missum", imper. præs. "mitte"
 - to call:               ind. præs. "vocó", inf. præs. "vocáre", ind. perf. "vocáví", supin. "vocátum", imper. præs. "vocá"
 - to mention(chat ping): "mentiónem" + ind. præs. "fació", inf. præs. "facere", ind. perf. "fécí", supin. "factum", imper. præs. "fac"; ind. præs. "citó", inf. præs. "citáre", ind. perf. "citáví", supin. "citátum", imper. præs. "citá"
+ 
+
+## __Media__
+
+- a video:                f. "pellicula, -æ"
+- a podcast:              n. "acroáma, -átis" 
 
 ## __Gaming__
 
