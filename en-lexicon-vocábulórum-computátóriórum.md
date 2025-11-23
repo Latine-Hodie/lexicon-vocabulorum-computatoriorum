@@ -47,6 +47,7 @@ It is adviced to not translate names of products and companies as it could rende
 
 - a user:                m. "úsuárius, -í" (male/undefined); f. "úsuária, -æ" (female)
 - a username:            n. "nómen, -inis" + "úsuárií/æ"
+- an account/profile:    f. "persóna, -æ"
 
 ## __Resolution__
 
