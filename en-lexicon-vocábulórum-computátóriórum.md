@@ -20,7 +20,7 @@ It is adviced to not translate names of products and companies as it could rende
 - Windows:              f. pl. "Fenestræ, -árum"
 - Discord:              f. "Discordia, -æ"; n. "Discordárium, -í";
 - Instagram:            n. "Ínstagramma, -atis"
-- Android:              m./f. "androídés, is"
+- Android:              m./f. "Androídés, is"
 
 ## __Characters__
 
