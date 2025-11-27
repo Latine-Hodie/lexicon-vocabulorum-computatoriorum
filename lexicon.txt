@@ -1,0 +1,25 @@
+airplane mode = Mós Volantis
+Bluetooth = Bluetooth
+keyboard = cláviátúra
+mouse = mús
+app = programma
+data = data
+file = plica
+network = réte
+web = téla
+user = úsuárius
+profile/account = persóna
+date = diés
+time = tempus
+button = clávis
+password = tessera
+printer = pressórium
+system = systéma
+shortcut = compendium
+installation = ínstallátió
+to install = ínstalláre
+panel = tabula
+Broadband = cónexió láta
+default = præoptátus,a,um | præoptandus,a,um
+mode/regime = mós + (gen.) act. part.
+modes/regimes => ON/OFF = [as]súmere/dépónere
